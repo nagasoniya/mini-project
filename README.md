@@ -39,4 +39,4 @@ After deployment, replace this with your live application URL.
 https://github.com/nagasoniya/mini-project
 
 Author
-Vinukonda Naga Soniya**
+Vinukonda Naga Soniya
